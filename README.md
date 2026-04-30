@@ -1,15 +1,19 @@
-<div align="center">
+<h1 align="center">Hi, I'm Harini Anandan 👋</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Harini%20Anandan&fontSize=52&fontColor=fff&fontAlignY=38&desc=Data%20Analyst%20%26%20AI%2FML%20Engineer&descAlignY=58&descSize=20)
+<h3 align="center">Data Analyst & AI/ML Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions.;Building+ML+models+that+solve+real+problems.;Exploring+the+edge+of+AI+and+human+behaviour.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Turning+raw+data+into+real+decisions.;Building+ML+models+that+solve+real+problems.;Exploring+the+edge+of+AI+%26+human+behaviour." alt="Typing SVG" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=harini-anandan&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/harini-anandan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harini-anandan&color=7c3aed&style=flat-square&label=Profile+Views" />
+  <a href="https://linkedin.com/in/harini-anandan-rao-a83134261"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -17,7 +21,7 @@
 
 > *I got curious about one question: why do patterns in data reflect how people think and behave? That curiosity led me here.*
 
-I work at the intersection of **data analysis** and **machine learning** — uncovering insights from messy datasets and building AI systems that solve real-world problems. My work spans human behaviour research, intelligent document systems, and autonomous AI agents.
+I work at the intersection of **data analysis** and **machine learning** — uncovering insights from messy datasets and building AI systems that solve real-world problems.
 
 ```yaml
 name:       Harini Anandan
@@ -28,7 +32,7 @@ interests:
   - Machine Learning & Deep Learning
   - NLP & Large Language Models
   - MLOps & Data Engineering
-  - AI ✕ Human Behaviour Research
+  - AI × Human Behaviour Research
 currently:  Building AI Agents & LLM-powered applications
 open_to:    Full-time roles · Freelance projects · Collaborations
 ```
@@ -37,64 +41,40 @@ open_to:    Full-time roles · Freelance projects · Collaborations
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 Neuroimaging-Inspired Listening Behaviour Study
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-7C3AED?style=flat-square)
+![Research](https://img.shields.io/badge/Research-10B981?style=flat-square)
 
-### 🧠 Neuroimaging-Inspired Listening Study
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Stats](https://img.shields.io/badge/-Statistics-7C3AED?style=flat-square)
-
-- Applied neuroimaging-inspired statistical methods to audio behaviour data
-- Identified patterns linking listening engagement with cognitive signals
-- Bridges data science and human behaviour research
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 RAG Document Q&A System
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLMs-FF6F00?style=flat-square)
-![VectorDB](https://img.shields.io/badge/-VectorDB-0EA5E9?style=flat-square)
-
-- Built a Retrieval-Augmented Generation pipeline for intelligent document Q&A
-- Integrated vector search with LLM inference for context-grounded answers
-- Significantly reduced manual document lookup time
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Data Analysis Agent
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Agents](https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-10B981?style=flat-square)
-
-- Autonomous agent that queries, analyses, and summarises structured datasets
-- Combines tool use, LLM reasoning, and Python execution end-to-end
-- Lets non-technical users interact with data in natural language
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Coming Soon...
-![Learning](https://img.shields.io/badge/-Always%20Building-F59E0B?style=flat-square)
-
-- Currently exploring cloud-native ML deployment
-- Building LLM-powered productivity tools
-- Open to collaboration — reach out!
-
-</td>
-</tr>
-</table>
+- Applied neuroimaging-inspired statistical methods to audio listening behaviour data
+- Identified patterns linking listening engagement with cognitive and emotional signals
+- Bridges data science and human behaviour research with measurable outcomes
 
 ---
 
-## 🛠 Tech Stack
+### 📄 RAG-Based Document Question Answering System
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector%20Search-0EA5E9?style=flat-square)
 
-<div align="center">
+- Built a Retrieval-Augmented Generation (RAG) pipeline for intelligent document Q&A
+- Integrated vector search with LLM inference to return accurate, context-grounded answers
+- Significantly reduced manual document lookup time for target use cases
+
+---
+
+### 🤖 AI-Powered Data Analysis Agent
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-10B981?style=flat-square)
+
+- Autonomous agent that queries, analyses, and summarises structured datasets end-to-end
+- Combines tool use, LLM reasoning, and Python execution in a single workflow
+- Enables non-technical users to interact with data using plain natural language
+
+---
+
+## 🛠️ Tech Stack
 
 **Programming**
 
@@ -120,84 +100,68 @@ open_to:    Full-time roles · Freelance projects · Collaborations
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
 
-**Tools & Environment**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harini-anandan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harini-anandan&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harini-anandan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harini-anandan&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini-anandan&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini-anandan&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=harini-anandan&theme=discord&no-frame=true&column=6&margin-w=8)](https://github.com/harini-anandan)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harini-anandan&theme=discord&no-frame=true&column=6&margin-w=8" />
+</p>
 
 ---
 
 ## 🌱 Current Focus
 
-<div align="center">
-
 | Area | Status |
 |------|--------|
 | 🤖 AI Agents & Agentic Workflows | 🔥 Active |
 | 💬 LLM Applications & Fine-tuning | 🔥 Active |
-| ☁️ Cloud + AI Integration (AWS/GCP) | 🔄 Learning |
+| ☁️ Cloud + AI Integration | 🔄 Learning |
 | 📊 End-to-end Data Projects | 🔄 Building |
 | ⚙️ MLOps & Model Deployment | 🔜 Coming Soon |
 
-</div>
-
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harini-anandan&theme=tokyo-night&hide_border=true&color=7C3AED&line=7C3AED&point=ffffff)](https://github.com/harini-anandan)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harini-anandan&theme=tokyo-night&hide_border=true&color=7C3AED&line=7C3AED&point=ffffff" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <i>Open to Data Analyst roles, AI/ML Engineer opportunities, and freelance projects.</i>
+</p>
 
-*Open to Data Analyst roles, AI/ML Engineer opportunities, and freelance projects.*
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harini-anandan-rao-a83134261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-[![Email](https://img.shields.io/badge/📧%20your.email@gmail.com-EA4335?style=for-the-badge)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
-
-*"The best way to predict the future is to build it — with data."*
-
-</div>
+<p align="center">
+  <i>"The best way to predict the future is to build it — with data." 🧠</i>
+</p>
